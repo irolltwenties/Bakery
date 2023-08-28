@@ -6,3 +6,5 @@ Then, you would receive WVAP from Bitfinex first and wait some time to start rec
 You will start to receive RSI values after the function would gather enough candles.
 <h2>Installation</h2>
 pip install -r requirements.txt
+<hr>
+Requires Pyhton v 3.11
