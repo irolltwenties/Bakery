@@ -1,5 +1,5 @@
 # Project Description
-This script performs connections to Binance and Bitfinex WebSocket API, listens to data and calculating RSI from Binance data, and calculating WVAP from Bitfinex data.
+This script performs connections to Binance and Bitfinex WebSocket API, listens to data and calculates RSI from Binance data, and calculating WVAP from Bitfinex data.
 ## Usage
 To use this script, you need to run main.py, which defines the main() function, containing two asyncio tasks. 
 
